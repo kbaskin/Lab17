@@ -1,0 +1,131 @@
+Country name: India, population: 1,339,000,000
+Country name: The United States, population: 325,700,000
+Country name: China, population: 1,386,000,000
+Country name: Rwanda, population: 12,210,000
+Country name: canada, population: 23,000,000
+Country name: India, population: 1,339,000,000
+Country name: The United States, population: 325,700,000
+Country name: China, population: 1,386,000,000
+Country name: Rwanda, population: 12,210,000
+Country name: India, population: 1,339,000,000
+Country name: The United States, population: 325,700,000
+Country name: China, population: 1,386,000,000
+Country name: Rwanda, population: 12,210,000
+Country name: canada, population: 23,000,000
+Country name: India, population: 1,339,000,000
+Country name: The United States, population: 325,700,000
+Country name: China, population: 1,386,000,000
+Country name: Rwanda, population: 12,210,000
+Country name: India, population: 1,339,000,000
+Country name: The United States, population: 325,700,000
+Country name: China, population: 1,386,000,000
+Country name: Rwanda, population: 12,210,000
+Country name: japan, population: 34,000,000
+Country name: India, population: 1,339,000,000
+Country name: The United States, population: 325,700,000
+Country name: China, population: 1,386,000,000
+Country name: Rwanda, population: 12,210,000
+Country name: japan, population: 34,000,000
+Country name: India, population: 1,339,000,000
+Country name: The United States, population: 325,700,000
+Country name: China, population: 1,386,000,000
+Country name: Rwanda, population: 12,210,000
+Country name: India, population: 1,339,000,000
+Country name: The United States, population: 325,700,000
+Country name: China, population: 1,386,000,000
+Country name: Rwanda, population: 12,210,000
+Country name: India, population: 1,339,000,000
+Country name: The United States, population: 325,700,000
+Country name: China, population: 1,386,000,000
+Country name: Rwanda, population: 12,210,000
+Country name: India, population: 1,339,000,000
+Country name: The United States, population: 325,700,000
+Country name: China, population: 1,386,000,000
+Country name: Rwanda, population: 12,210,000
+Country name: India, population: 1,339,000,000
+Country name: The United States, population: 325,700,000
+Country name: China, population: 1,386,000,000
+Country name: Rwanda, population: 12,210,000
+Country name: usa, population: 3
+Country name: India, population: 1,339,000,000
+Country name: The United States, population: 325,700,000
+Country name: China, population: 1,386,000,000
+Country name: Rwanda, population: 12,210,000
+Country name: usa, population: 3
+Country name: India, population: 1,339,000,000
+Country name: The United States, population: 325,700,000
+Country name: China, population: 1,386,000,000
+Country name: Rwanda, population: 12,210,000
+Country name: canada, population: 23,000
+Country name: India, population: 1,339,000,000
+Country name: The United States, population: 325,700,000
+Country name: China, population: 1,386,000,000
+Country name: Rwanda, population: 12,210,000
+Country name: japan, population: 23,000
+Country name: India, population: 1,339,000,000
+Country name: The United States, population: 325,700,000
+Country name: China, population: 1,386,000,000
+Country name: Rwanda, population: 12,210,000
+Country name: japan, population: 23,000
+Country name: India, population: 1,339,000,000
+Country name: The United States, population: 325,700,000
+Country name: China, population: 1,386,000,000
+Country name: Rwanda, population: 12,210,000
+Country name: India, population: 1,339,000,000
+Country name: The United States, population: 325,700,000
+Country name: China, population: 1,386,000,000
+Country name: Rwanda, population: 12,210,000
+Country name: India, population: 1,339,000,000
+Country name: The United States, population: 325,700,000
+Country name: China, population: 1,386,000,000
+Country name: Rwanda, population: 12,210,000
+Country name: India, population: 1,339,000,000
+Country name: The United States, population: 325,700,000
+Country name: China, population: 1,386,000,000
+Country name: Rwanda, population: 12,210,000
+Country name: India, population: 1,339,000,000
+Country name: The United States, population: 325,700,000
+Country name: China, population: 1,386,000,000
+Country name: Rwanda, population: 12,210,000
+Country name: japan, population: 23,000
+Country name: India, population: 1,339,000,000
+Country name: The United States, population: 325,700,000
+Country name: China, population: 1,386,000,000
+Country name: Rwanda, population: 12,210,000
+Country name: japan, population: 23,000
+Country name: India, population: 1,339,000,000
+Country name: The United States, population: 325,700,000
+Country name: China, population: 1,386,000,000
+Country name: Rwanda, population: 12,210,000
+Country name: japan, population: 2,000
+Country name: India, population: 1,339,000,000
+Country name: The United States, population: 325,700,000
+Country name: China, population: 1,386,000,000
+Country name: Rwanda, population: 12,210,000
+Country name: India, population: 1,339,000,000
+Country name: The United States, population: 325,700,000
+Country name: China, population: 1,386,000,000
+Country name: Rwanda, population: 12,210,000
+Country name: japan, population: 23,000
+Country name: India, population: 1,339,000,000
+Country name: The United States, population: 325,700,000
+Country name: China, population: 1,386,000,000
+Country name: Rwanda, population: 12,210,000
+Country name: India, population: 1,339,000,000
+Country name: The United States, population: 325,700,000
+Country name: China, population: 1,386,000,000
+Country name: Rwanda, population: 12,210,000
+Country name: japan, population: 23,000
+Country name: India, population: 1,339,000,000
+Country name: The United States, population: 325,700,000
+Country name: China, population: 1,386,000,000
+Country name: Rwanda, population: 12,210,000
+Country name: japan, population: 23,000
+Country name: The United States, population: 325,700,000
+Country name: China, population: 1,386,000,000
+Country name: Rwanda, population: 12,210,000
+Country name: japan, population: 23,000
+Country name: India, population: 1,339,000,000
+Country name: The United States, population: 325,700,000
+Country name: China, population: 1,386,000,000
+Country name: Rwanda, population: 12,210,000
